@@ -15,6 +15,7 @@ This laboratory focuses on turning basic Python classes into a more complete spa
 ## How to Run
 1. Activate the virtual environment
 2. Run `demo.py` to test the spatial classes
+3.
 
 ---
 
