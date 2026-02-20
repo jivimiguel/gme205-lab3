@@ -8,14 +8,13 @@ This laboratory focuses on turning basic Python classes into a more complete spa
 ## Environment Setup
 - Python 3.14
 - `pandas`, `matplotlib`, `shapely` 
-- 
 
 ---
 
 ## How to Run
 1. Activate the virtual environment
 2. Run `demo.py` to test the spatial classes
-3.
+3. Run the final consolidated demo `run_lab3.py`. 
 
 ---
 
